@@ -1,0 +1,16 @@
+{
+  "name": "driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.driver.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.980.0",
+    "fake": "^0.2.2"
+  }
+}
